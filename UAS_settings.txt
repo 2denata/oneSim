@@ -1,0 +1,1 @@
+Scenario.name = Spray and Utility BasedGroup.router = DecisionEngineRouterDecisionEngineRouter.decisionEngine = SprayAndUtilityBasedDecisionEngineRouter.nrofCopies = 5Report.nrofReports = 1Report.reportDir = reports/Report.report1 = MessageStatsReport
